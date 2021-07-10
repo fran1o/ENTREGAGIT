@@ -1,0 +1,75 @@
+.container{
+    background-color: black;
+    height: 100px;
+    width: auto;
+}
+
+.titulo{
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Qahiri', sans-serif;
+    color: cornflowerblue;
+    padding-top: 1px;
+}
+
+.body{
+    background: cornflowerblue;
+}
+
+.containernav{
+    text-align: center;
+    height: 60px;
+    width: auto;
+    background: yellow;
+    margin-top: 1px;
+}
+
+
+.ul{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 5px;
+}
+
+.containerimg{
+    background: black;
+    height: 700px;
+    width: auto;
+}
+.nav ul li{
+    display: inline-block;
+}
+
+.nav ul li a{
+    text-decoration: none;
+    padding: 5px;
+    color: cornflowerblue;
+}
+
+.nav a:hover{
+    background: black;
+    transition: 0.4s;
+    display: block;
+
+}
+
+.portada{
+    position: center;
+    margin-left: 70px;
+    padding-top: 15px;
+}
+
+.pie{
+    height: 80px;
+    width: auto;
+    text-align: center;
+    background: rgba(69, 243, 63, 0.603);
+    margin-top: 5px;
+}
+
+.parrafopie{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+}
